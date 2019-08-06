@@ -41,8 +41,10 @@ hr.thiccc{
   border: 5px solid black
   }
 img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 150px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin: 244px auto;
+    float: right;
+    padding: 5px;
+    width: 150px;
 }
