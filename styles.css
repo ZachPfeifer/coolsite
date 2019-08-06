@@ -6,6 +6,9 @@ h1 {
 body {
   background-color: black;
 }
+p {
+  text-align: center
+}
 
 #outer{
   position:fixed;
