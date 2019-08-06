@@ -17,6 +17,8 @@ p {
   widows: 50%;
   height:50%;
   background: #0000cc;
+    border: 1px solid white
+
   }
 #inner{
   width: 100%;
