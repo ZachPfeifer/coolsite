@@ -10,7 +10,7 @@ p {
   text-align: center
 }
 section.inner-text{
-  float: right;
+  float: center;
   position: center;
   width: 50%;
   height: 40%;
