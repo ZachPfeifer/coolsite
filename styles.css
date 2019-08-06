@@ -1,8 +1,8 @@
-.section1{
-  text: white; 
+#section1{
+  color: white; 
   background: blue;
 }
-.section2{
+#section2{
   background-color: white;
 
 }
