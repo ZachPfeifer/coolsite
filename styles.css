@@ -19,7 +19,7 @@ body {
 			width: 50%;
       height: 50%;
       left: 98%;
-			margin: 0 auto;
+      right: 98%;
 			position: relative;
 			background:white;
 		}
