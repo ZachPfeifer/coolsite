@@ -10,8 +10,8 @@ p {
   text-align: center
 }
 section.inner-text{
-  float: center;
-  position: center;
+  position: absolute;
+  left: 30%;
   width: 50%;
   height: 40%;
 }
@@ -25,14 +25,13 @@ hr.thiccc{
   position:fixed;
   top:50%;
   left:50%;
-  widows: 50%;
   height:50%;
   background: #0000cc;
     border: 1px solid white
 
   }
 #inner{
-  width: 100%;
+  width: 50vh;
   height: 80%;
   margin: 0 auto;
   position: relative;
