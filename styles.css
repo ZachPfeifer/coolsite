@@ -1,5 +1,5 @@
 div {
-  height: 100px;
+  height: 1000px;
   width: 500px;
   background-color: blue;
 }
@@ -7,5 +7,19 @@ h1 {
   color: white
 }
 .section1 {
-  color: blue
+  color: yellow
+}
+
+
+#container{
+    width:200px;
+    height:200px;
+    position:relative;
+    border:1px solid black;
+}
+.box{
+    border:1px solid red;
+    position:absolute;
+    width:20px;
+    height:20px;    
 }
