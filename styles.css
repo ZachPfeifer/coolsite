@@ -25,17 +25,25 @@ hr.thiccc{
   position:fixed;
   top:30%;
   left:40%;
-  height:50%;
+  height:58%;
+  width: 59%;
   background: #0000cc;
     border: 1px solid white
 
   }
 #inner{
-  width: 50vh;
-  height: 80%;
+  width: 98%;
+  height: 63%;
   margin: 0 auto;
   position: relative;
   background:white;
   text-align: center;
   border: 5px solid black
   }
+#image-box{
+  float: right;
+   width: 98%;
+  height: 63%;
+  margin: 0 auto;
+  position: relative;
+}
