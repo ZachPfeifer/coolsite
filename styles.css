@@ -1,17 +1,5 @@
-#section1{
-  color: white; 
-  background-color: blue;
-    padding: 10px;
-
-}
-#section2{
-  background-color: white;
-  color: black;
-  padding: 10px;
-}
 div {
-  height: 200px;
-  width: 50%;
+  height: 100px;
+  width: 500px;
   background-color: blue;
 }
-
