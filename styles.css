@@ -1,14 +1,22 @@
-		#outer{
+h1 {
+  text-align: center;
+  color: white
+
+}
+
+
+#outer{
 			position:fixed;
 			top:0;
 			left:0;
 			width:100%;
-			height:100%;
+      height:100%;
+      background: blue
 		}
 		#inner{
 			width: 50%;
 			height: 50%;
 			margin: 0 auto;
 			position: relative;
-			background:orange;
+			background:white;
 		}
