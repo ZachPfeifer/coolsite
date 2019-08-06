@@ -17,7 +17,8 @@ body {
 		}
 		#inner{
 			width: 50%;
-			height: 50%;
+      height: 50%;
+      left: 98%;
 			margin: 0 auto;
 			position: relative;
 			background:white;
